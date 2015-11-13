@@ -34,6 +34,9 @@
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
             <p>Walk walk walk walk walk</p>
+            <p>What do someone’s shoes tell us about them? Some would argue quite a bit.
+Others would argue that you need to actually spend some time inhabiting someone else’s shoes in order to really understand who they are and the journey they’ve been on.
+Kim Abeles, the artist behind the “Walk a Mile in My Shoes” public art installations at Jefferson Blvd./Rodeo Rd. and Rodeo Rd./Martin Luther King Jr. Blvd., seems to believe both are true</p>
          </div>
       </body>
       
@@ -47,7 +50,7 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
+               <bibl>http://la.streetsblog.org/2014/07/18/lovely-art-installations-evoking-walking-placed-in-hard-to-walk-to-locations/</bibl>
                <bibl>Citation 2...</bibl>
             </listBibl>
          </div>
