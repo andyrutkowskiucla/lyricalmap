@@ -18,7 +18,7 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "https://a.tiles.mapbox.com/v4/andy-rutkowski.odbodjfo/page.html?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q#12/33.9640/-118.3307",
+        "url" : "https://{s}.tiles.mapbox.com/v3/andy-rutkowski.odbodjfo/{z}/{x}/{y}.png", 
         "opts" : {
             "minZoom" : 0,
             "maxZoom" : 15,
