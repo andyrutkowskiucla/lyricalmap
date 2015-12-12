@@ -18,7 +18,7 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "mapbox://styles/andy-rutkowski/cii2dty90001a91m2hirwrmfp",
+        "url" : "https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js",
         "opts" : {
             "minZoom" : 0,
             "maxZoom" : 15,
